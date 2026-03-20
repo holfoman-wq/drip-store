@@ -59,4 +59,3 @@ GitHub Pages (com adaptações)
 
 Este projeto utiliza TailwindCSS para estilização rápida, responsiva e moderna. Todos os componentes são mobile-first e adaptam-se dinamicamente ao tamanho da tela.
 
-Feito com 💗 usando React + Tailwind por *Nazaré, Jacque e Adriana*
