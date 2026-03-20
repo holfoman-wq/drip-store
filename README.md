@@ -1,6 +1,6 @@
 # 👟 Drip Store
 
-Link do deploy: https://drip-store-digital.vercel.app/
+Link do deploy: 
 
 Um e-commerce moderno desenvolvido com React, React Router e TailwindCSS. O projeto simula uma loja online com funcionalidades completas de navegação, pesquisa, visualização de produtos, filtros, carrosséis promocionais e carrinho de compras.
 
